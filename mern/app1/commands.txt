@@ -1,4 +1,4 @@
-#create new project inside directory
+#create new project inside directories
 
 npm init -y
 #install dependencies
