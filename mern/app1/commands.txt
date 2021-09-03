@@ -1,5 +1,4 @@
 #create new project inside directories
-
 npm init -y
 #install dependencies
 npm i express mongoose ejs sluggify
